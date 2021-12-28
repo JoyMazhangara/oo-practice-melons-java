@@ -38,7 +38,8 @@ public class Main {
 				True
 		);
 
-		MelonType[] melonTypes = {musk, cas, cren, yw};
+		MelonType[] melonTypes = {musk, cas,
+				cren, yw};
 
 		Melon melon1 = new Melon(melonTypes[3], 8, 7, 2, "Sheila");
 		Melon melon2 = new Melon(melonTypes[3], 3, 4, 2, "Sheila");
